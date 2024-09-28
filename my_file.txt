@@ -1,0 +1,6 @@
+This is the first line.
+Here is the second line with a number: 12345
+And finally, the third line.
+This is the fourth appended line.
+The fifth line contains another number: 67890
+Finally, the sixth appended line.
